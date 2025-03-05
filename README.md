@@ -1,11 +1,15 @@
 # Aws-solution-architect-project
 
 AWS Architecture Detailed Explanation
+
 Introduction
+
 This document provides a comprehensive explanation of the AWS architecture designed for
 hosting a highly available and secure application. The architecture consists of multiple AWS
 services integrated to ensure performance, security, scalability, and monitoring.
+
 Architecture Overview
+
 The architecture is designed with high availability, fault tolerance, and security in mind. The
 system spans across two Availability Zones (AZs) and is divided into three tiers:
 1. **Web Tier**
